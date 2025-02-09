@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AmeyaKhanzode
-- 👀 I’m interested in basic coding and making small projects just to learn new stuff.
-- 🌱 I’m currently learning system level programming and web dev.
+- 👀 I’m interested in Machine Learning, Systems, Webdev (not really) 
 - 🎗️ I’m looking forward to making more indepth projects on any new interesting topics that i find online.
 
 <!---
