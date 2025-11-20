@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AmeyaKhanzode
-- 👀 I’m interested in Machine Learning, Systems
-- 🎗️ I’m looking forward to making more indepth projects on any new interesting topics that i find online.
+- 👀 I’m interested in Systems, Machine Learning and general CS.
 
 <!---
 AmeyaKhanzode/AmeyaKhanzode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
